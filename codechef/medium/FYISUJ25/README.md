@@ -28,7 +28,7 @@ Branch Code: 3052
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-14T06:35:42.211Z  
+**Submitted:** 2026-08-14T06:35:47.545Z  
 
 ```java
  class Codechef{
