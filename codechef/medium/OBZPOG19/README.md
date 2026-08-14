@@ -4,16 +4,23 @@
 
 ## Problem
 
-_Description not available._
+### Character Encoding System
+
+A developer is implementing a character encoding system where each letter should be stored as a single character.
+
+```
+System.out.println(_____);
+
+```
 
 ## Solution
 
-**Language:** Java  
+**Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-14T05:50:19.972Z  
+**Submitted:** 2026-08-14T05:50:40.379Z  
 
-```java
+```cpp
 class Codechef {
     public static void main(String[] args) {
         // Print a character literal 'A'
