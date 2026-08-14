@@ -13,7 +13,7 @@ In this example, we demonstrate how to declare an `int` variable, assign a value
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-14T06:20:13.086Z  
+**Submitted:** 2026-08-14T06:21:54.136Z  
 
 ```java
 class Codechef {
